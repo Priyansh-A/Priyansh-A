@@ -1,8 +1,8 @@
-# Priyanshu Awasthi
+# Prem Awasthi
 **`Web Dev(Mostly Frontend and a little bit of backend)`**
 
 
-Hi, I  am Priyanshu. I am a dynamic and passionate frontend web developer based in Nepal. I have an unwavering enthusiasm for coding as it defines me for who I am. I love translating intricate designs of the web into responsive , meticulously structured web pages. I am open to new things and love taking challenges. I am a fast learner and effiecient in my field of work. I have no professional experience atm and I would love to take the opportunity to change that.  
+Hi, I  am Prem. I am a dynamic and passionate frontend web developer based in Nepal. I have an unwavering enthusiasm for coding as it defines me for who I am. I love translating intricate designs of the web into responsive , meticulously structured web pages. I am open to new things and love taking challenges. I am a fast learner and effiecient in my field of work. I have no professional experience atm and I would love to take the opportunity to change that.  
 
 I have a profound understanding of the basics of web sevelopment that are HTML, CSS and JavaScript.
 I have an intermeddiate knowlede of some frameworks and libraries such as React, NextJs, TypeScript, TailwindCss and Bootstrap.
