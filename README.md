@@ -1,5 +1,5 @@
 # Prem Awasthi
-**`Web Dev(Mostly Frontend and basic knowledge on Backend)`**
+**`Web Dev(Mostly Frontend with basic knowledge on Backend)`**
 
 
 Hi, I  am Prem. I am a dynamic and passionate frontend web developer based in Nepal. I have an unwavering enthusiasm for coding. I love translating intricate designs of the web into responsive , meticulously structured web pages. I am open to new things and love taking challenges. I am a fast learner and effiecient in my field of work. I have no professional experience atm and I would love to take the opportunity to change that.  
