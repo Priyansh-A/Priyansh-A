@@ -11,9 +11,6 @@
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
-
-
 <br>
 
-
-![Priyansh-A's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif
