@@ -14,10 +14,20 @@
 <br>
 
 <img src ="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="700px" height="700px">
-## ⚡ Technologies I Use
+<h2> ⚡ Technologies I Use </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,go,django,fastapi,postgres,docker,git,redis,nginx"/>
   </a>
 </p>
+
+<h2>Portfolio Website</h2>
+
+
+<img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="150px" >
+
+
+<h2>Love and Peace</h2>
+
+<img src="https://media1.tenor.com/m/trItpcsX7OkAAAAC/vash-the-stampede-vash.gif">
