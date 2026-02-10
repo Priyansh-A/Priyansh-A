@@ -25,7 +25,7 @@
 <h2>Portfolio Website</h2>
 
 
-<img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="150px" >
+<a href="https://premawasthi.com.np"><img src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" width="150px"></a>
 
 
 <h2>Love and Peace</h2>
